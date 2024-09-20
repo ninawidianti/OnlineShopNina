@@ -1,0 +1,8 @@
+var itemProduct = [
+["Baju","./lib/assets/baju1png.png","Rp. 100000", "Baju kasual terbuat dari bahan katun yang nyaman, ideal untuk aktivitas sehari-hari dengan desain simpel namun tetap stylish dengan harga yang terjangkau dan cocok disemua kalangan."],
+["Kemeja","./lib/assets/baju3png.png","Rp. 200000","Kemeja kasual dengan potongan santai dan bahan katun lembut, cocok untuk gaya sehari-hari dengan berbagai pilihan warna dan pola yang trendi."],
+["Sweater","./lib/assets/baju5png.png","Rp. 150000","Sweater oversized dengan ukuran yang lebih besar dari biasanya, memberikan kesan modis dan nyaman, cocok dipadukan dengan jeans atau legging untuk gaya yang chic dan santai."],
+["Dress","./lib/assets/baju4png.png","Rp. 400000","Dress kasual yang ringan dan nyaman, terbuat dari bahan katun atau linen dengan desain sederhana dan potongan longgar, cocok untuk aktivitas sehari-hari atau jalan-jalan santai."],
+["Celana","./lib/assets/celana1png.png","Rp. 300000","Celana jeans yang tahan lama dan stylish, terbuat dari bahan denim dengan berbagai potongan seperti skinny, straight, atau bootcut, cocok untuk gaya kasual dan dapat dipadukan dengan berbagai atasan."],
+["Rok","./lib/assets/rok1png.png","Rp. 120000","Rok maxi dengan panjang mencapai mata kaki atau lebih, memberikan tampilan anggun dan flowy, ideal untuk acara formal atau liburan, sering terbuat dari bahan yang nyaman seperti katun atau rayon."]
+];
